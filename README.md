@@ -50,40 +50,6 @@ EULA
 ReconCobra is false positive free, when there is something it will show no matter what, if it is not, it will give blank results rather error.
 
 
-# University Course
-- ReconCobra is now a part of International Hacking Trainings for OSINT
-- Cybersecurity365.com OSINT for Reconnaissance trainings for CEH, CISSP, Security+, ITPA
-
-# Appeared
-- https://codeby.net/threads/reconcobra.68782
-- https://www.facebook.com/1470285456587684/posts/reconcobra-ultimate-recon-software-for-information-gatheringbrief-introductionre/2351883108427910/
-- https://raidforums.com/Thread-reconcobra-Ultimate-Recon-Software-for-Information-Gathering
-- Kelvin Security
-- National Cyber Services Security
-- https://psdrepo.blogspot.com/2019/08/codebynet_14
-- Cyber Junkies
-- https://vaultdomain.com/reconcobrathe-ultimate-recon-software-for-information-gathering-osint/
-- rdp4you
-- Digital Union Media in OSINT category
-
-# Tweets
-- Over, 1000+ Tweets about ReconCobra
-
-# Integrations
-- Tigerman Root Software Package
-
-# Fan Made Youtube Video
-- https://www.youtube.com/watch?v=kfykYEMS8YU
-- https://www.youtube.com/watch?v=j2DsDi43jO8
-- https://www.facebook.com/MRRobotZalla/videos/769801130133298/?t=0
-
-# Official Youtube Video
-- https://www.youtube.com/watch?v=TupCmgzp6hg
-
-
-
-
-
 # Kali Installation
 - git clone https://github.com/haroonawanofficial/ReconCobra.git
 - cd Reconcobra
@@ -140,12 +106,3 @@ ReconCobra is false positive free, when there is something it will show no matte
 - Dependencies will be handled automatically
 - Third party software(s)/dependencies/modules will be handled automatically
 
-# Developer
-- Haroon Awan
-- mrharoonawan@gmail.com
-
-# Co-developer & Senior Tester
-- Arun S
-
-# Sponsor and Support via BTC
-- 3BuUYgEgsRuEra4GwqNVLKnDCTjLEDfptu
