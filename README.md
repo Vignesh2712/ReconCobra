@@ -16,30 +16,6 @@ EULA
     <img src="https://codeby.net/attachments/cobra1-png.32373/" width="400px"</img> 
 </div>
 
-# In-Action
-
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra2-png.32385/" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra3-png.32374/" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra4-png.32375/" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra5-png.32376/" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra2-png.32385/" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra6-png.32377/" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="https://codeby.net/attachments/cobra7-png.32378/" width="400px"</img> 
-</div>
-
 
 # Brief Introduction
 - ReconCobra is useful in Banks, Private Organisations and Ethical hacker personnel for legal auditing.
