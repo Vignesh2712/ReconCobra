@@ -27,7 +27,7 @@ ReconCobra is false positive free, when there is something it will show no matte
 
 
 # Kali Installation
-- git clone https://github.com/haroonawanofficial/ReconCobra.git
+- git clone https://github.com/Vignesh2712/ReconCobra.git
 - cd Reconcobra
 - sudo chmod u+x *.sh
 - ./Kali_Installer.sh
@@ -36,7 +36,7 @@ ReconCobra is false positive free, when there is something it will show no matte
 - Third party software(s)/dependencies/modules will be handled automatically
 
 # Parrot OS Installation
-- git clone https://github.com/haroonawanofficial/ReconCobra.git
+- git clone  https://github.com/Vignesh2712/ReconCobra.git
 - cd Reconcobra
 - chmod u+x *.sh
 - Bash ParrotOS_Installer.sh
@@ -45,7 +45,7 @@ ReconCobra is false positive free, when there is something it will show no matte
 - Third party software(s)/dependencies/modules will be handled automatically
 
 # Termux Installation
-- git clone https://github.com/haroonawanofficial/ReconCobra.git
+- git clone  https://github.com/Vignesh2712/ReconCobra.git
 - cd Reconcobra
 - chmod u+x *.sh
 - pkg install proot
@@ -60,7 +60,7 @@ ReconCobra is false positive free, when there is something it will show no matte
 # Android Led TV Installation
 - Install termux
 - Input usb keyboard
-- git clone https://github.com/haroonawanofficial/ReconCobra.git
+- git clone https://github.com/Vignesh2712/ReconCobra.git
 - cd Reconcobra
 - chmod u+x *.sh
 - pkg install proot
@@ -74,7 +74,7 @@ ReconCobra is false positive free, when there is something it will show no matte
 
 # Black Arch Installation
 - Open issue, if error occur
-- git clone https://github.com/haroonawanofficial/ReconCobra.git
+- git clone  https://github.com/Vignesh2712/ReconCobra.git
 - cd Reconcobra
 - chmod u+x *.sh
 - ./BlackArch_Installer.sh
